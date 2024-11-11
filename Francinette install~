@@ -1,0 +1,16 @@
+Francinette installation
+
+1. Clone the Francinette Repository: Clone the francinette repository to your local machine.
+	git clone https://github.com/xicodomingues/francinette.git
+
+2. Navigate to the Francinette Directory: Change to the directory where you cloned the repository.
+	cd francinette
+
+3. Install Dependencies Locally: Install the necessary dependencies locally. You can use a Python virtual environment to avoid needing root permissions.
+	pip install -r requirements.txt
+
+4. Update Francinette
+	francinette -u   
+5. Run Francinette: You can now run francinette from within the virtual environment.
+	./francinette
+
